@@ -4,4 +4,5 @@ Supporting codes and data for a paper titled “Label-free 4D analysis of lipid 
 
 Instructions for use:
 1) Download testing datasets:https://doi.org/10.5281/zenodo.18251200
-2) Run main.m
+2) In `main.m`, set `inMatPath` to the full path of the downloaded dataset file.
+3) Run `main.m`
